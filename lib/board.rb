@@ -1,5 +1,5 @@
 
 puts row = ["x","x","x"]
-puts 
+puts "-"*10
 
 end
