@@ -1,8 +1,9 @@
+row[0]
+row[1]
+row[2]
 
 board = ["","","","","","","","",""]
-puts row = 
-puts row[0]
-puts row[1]
-puts row[2]
+puts row = row = [" ", " ", " "]
+
 
 end
