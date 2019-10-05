@@ -1,5 +1,5 @@
 
-board()
+board(row)
 puts row = [" "," "," "]
 puts row[0]
 puts row[1]
